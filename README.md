@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1f15de2-905e-4cd8-b967-5ddcce7b82f2)# 🧠 SONSC Biomedical AutoClustering
+ 🧠 SONSC Biomedical AutoClustering
 
 This repository implements **SONSC** (Self-Optimized Number of SubClusters) for automatic clustering of biomedical data using the **Improved Separation Index (ISI)**. It has been evaluated on:
 - 🧬 TCGA-BRCA Gene Expression Profiles
